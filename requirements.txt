@@ -34,7 +34,7 @@ idna==2.6
 isort==4.3.18
 itsdangerous==0.24
 jeepney==0.4
-Jinja2==2.10
+Jinja2==2.11.3
 keyring==10.6.0
 keyrings.alt==3.0
 launchpadlib==1.10.6
